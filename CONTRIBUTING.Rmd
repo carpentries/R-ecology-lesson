@@ -235,6 +235,6 @@ other external resources should be included in the repository whenever possible.
 - *Where can I get help?*
   <br/>
   Mail us at [team@carpentries.org](mailto:team@carpentriesorg)
-  or come chat with us on [Slack](https://swc-slack-invite.herokuapp.com/).
+  or come chat with us on [Slack](https://slack-invite.carpentries.org/).
 
 
